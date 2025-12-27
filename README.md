@@ -1,3 +1,13 @@
+ <h3 align="center">
+  Welcome to Vaibhav's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+passionate+web+developer;I+am+a+student;Web+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p>
+<hr>
+<div align="center">
+
 # 💫 About Me:
 👋 Hi there! I'm a passionate web developer just starting my journey in the world of coding. I love bringing ideas to life through clean, interactive, and user-friendly websites.<br><br>💻 I’m excited to learn and explore new technologies, and I have a particular interest in HTML, CSS, and JavaScript. I'm always looking for opportunities to enhance my skills and collaborate on projects.<br><br>🌱 Currently, I'm diving into frameworks like React and exploring backend technologies to broaden my web development knowledge.<br><br>✨ I believe in the power of community and open-source, so I’m eager to contribute and learn from others in the field.<br><br>Feel free to check out my projects, and I’m always open to feedback and collaboration!<br><br>
 
