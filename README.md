@@ -3,13 +3,25 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+passionate+web+developer;I+am+a+student;Web+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+passionate+web+developer;Web+Dev;Blockchain;Software+Engineering"></a>
 </p>
 <hr>
 <div align="center">
 
 # 💫 About Me:
-👋 Hi there! I'm a passionate web developer just starting my journey in the world of coding. I love bringing ideas to life through clean, interactive, and user-friendly websites.<br><br>💻 I’m excited to learn and explore new technologies, and I have a particular interest in HTML, CSS, and JavaScript. I'm always looking for opportunities to enhance my skills and collaborate on projects.<br><br>🌱 Currently, I'm diving into frameworks like React and exploring backend technologies to broaden my web development knowledge.<br><br>✨ I believe in the power of community and open-source, so I’m eager to contribute and learn from others in the field.<br><br>Feel free to check out my projects, and I’m always open to feedback and collaboration!<br><br>
+Software Engineering | Web Development | Systems & Data Foundations<br><br>
+I am a software engineer with a strong interest in building reliable, well-structured systems and modern web applications. I enjoy working across different layers of software—ranging from low-level programming and data handling to high-level web development and application design—with a focus on correctness, clarity, and long-term maintainability.
+
+# What I’m Interested In
+
+Web Development<br><br>
+Designing and building clean, scalable, and maintainable web applications with attention to architecture and performance.<br><br>
+
+Software Engineering<br><br>
+Applying engineering principles such as modularity, abstraction, testing, and documentation to write robust and understandable code.<br><br>
+
+Systems & Data Foundations<br><br>
+Exploring how data is represented, validated, and processed within software systems, and how underlying system behavior influences application design.<br><br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -26,7 +38,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vaibhav232003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-gowda257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![](https://visitcount.itsvg.in/api?id=Vaibhav-S-Gowda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I believe strong software is built on strong fundamentals, careful reasoning, and continuous curiosity.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vaibhav-S-Gowda&icon=0&color=0)](https://visitcount.itsvg.in)
