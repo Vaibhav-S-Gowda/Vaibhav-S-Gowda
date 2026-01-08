@@ -9,7 +9,6 @@
 <div align="center">
 
 # 💫 About Me:
-Software Engineering | Web Development | Systems & Data Foundations<br><br>
 I am a software engineer with a strong interest in building reliable, well-structured systems and modern web applications. I enjoy working across different layers of software—ranging from low-level programming and data handling to high-level web development and application design—with a focus on correctness, clarity, and long-term maintainability.
 
 # 💻 Tech Stack:
