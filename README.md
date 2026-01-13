@@ -29,4 +29,3 @@ I am a software engineer with a strong interest in building reliable, well-struc
 I believe strong software is built on strong fundamentals, careful reasoning, and continuous curiosity.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaibhav-S-Gowda&icon=0&color=0)](https://visitcount.itsvg.in)
