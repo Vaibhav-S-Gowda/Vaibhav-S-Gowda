@@ -1,31 +1,68 @@
- <h3 align="center">
-  Welcome to Vaibhav's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Vaibhav S Gowda
+</h1>
+
 <p align="center">
-  <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+passionate+web+developer;Web+Dev;Blockchain;Software+Engineering"></a>
+  <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Software+Development+Engineer;P2P+Systems+%26+Cloud+Native;Full-Stack+Web+Developer;Systems+%26+Data+Foundations">
+  </a>
 </p>
-<hr>
+
+---
+
+### 🚀 About Me
+I am a **Software Development Engineer** focused on building high-performance, distributed systems and reliable web architectures. I bridge the gap between low-level system efficiency and high-level user experience.
+
+### 🔭 Current Focus
+- 🚀 **Currently Building:** [NexusShare](https://github.com/Vaibhav-S-Gowda) — A high-performance P2P file-sharing system focused on data privacy.
+- ⚗️ **Exploring:** Distributed Hash Tables (DHT) and local-first software architectures.
+- ⚡ **Technical Interests:** Kademlia, Cloud-Native Scalability, and AI Integration.
+- 🌱 **Learning:** Advanced Go routines and Microservices security patterns.
+- 💬 **Ask me about:** Java concurrency, React performance, or the decentralized web.
+
+---
+
+### 🛠️ Technical Arsenal
+| Category | Expertise |
+| :--- | :--- |
+| **Languages** | Java, Python, Go, C#, C, JavaScript, SQL |
+| **Frameworks** | React, Next.js, Node.js, Express, Tailwind CSS |
+| **Infrastructure** | AWS (EC2, S3), Git, GitHub Actions, Docker |
+| **Databases** | MySQL, PostgreSQL, MongoDB ||
+
+---
+
+### 📈 Technical Metrics
 <div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-S-Gowda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Vaibhav's GitHub Stats" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-S-Gowda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-# 💫 About Me:
-I am a software engineer with a strong interest in building reliable, well-structured systems and modern web applications. I enjoy working across different layers of software—ranging from low-level programming and data handling to high-level web development and application design—with a focus on correctness, clarity, and long-term maintainability.
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Vaibhav-S-Gowda&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav-S-Gowda&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-S-Gowda&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/vaibhav-gowda257" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vaibhav Gowda" /></a>
+<a href="mailto:vaibhav.gowda.work@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.gg/vaibhav232003" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+<br />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vaibhav232003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-gowda257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-[![](https://visitcount.itsvg.in/api?id=Vaibhav-S-Gowda&icon=0&color=0)](https://visitcount.itsvg.in)
-
-I believe strong software is built on strong fundamentals, careful reasoning, and continuous curiosity.
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-PES%20University-EB1923?style=for-the-badge&logo=leanpub&logoColor=white" />
+</p>
