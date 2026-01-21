@@ -45,9 +45,14 @@ I am a **Software Development Engineer** focused on building high-performance, d
       </td>
     </tr>
   </table>
+  
+![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav-S-Gowda&theme=radical&hide_border=false&bg_color=0D1117)<br/>
 </div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=Vaibhav-S-Gowda&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 ### 🤝 Connect with me
