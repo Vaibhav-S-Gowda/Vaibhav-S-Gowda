@@ -1,10 +1,11 @@
-<h1 align="center">Hi there!! I'm Vaibhav 👋</h1>
+<h1 align="center">Hi there!! I'm Vaibhav </h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Software+Development+Engineer;P2P+Systems+%26+Cloud+Native;Full-Stack+Web+Developer;Systems+%26+Data+Foundations">
   </a>
-</p>
+</p> -->
+> Software Development Engineer | P2P Systems | Cloud Native | Full-Stack Web Developer | Data Foundations
 
 ### 🚀 About Me
 I am a **Software Development Engineer** focused on building high-performance, distributed systems and reliable web architectures. I bridge the gap between low-level system efficiency and high-level user experience.
