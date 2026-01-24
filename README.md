@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=70&section=header&text=Vaibhav%20S%20Gowda&fontSize=50&fontColor=ffffff" />
-</p>
+<h1 align="center">Hi there!! I'm Vaibhav 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda">
