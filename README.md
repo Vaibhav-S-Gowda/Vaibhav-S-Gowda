@@ -39,7 +39,7 @@ I am a **Software Development Engineer** focused on building high-performance, d
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vaibhav-S-Gowda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Vaibhav's GitHub Stats" />
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-S-Gowda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vaibhav-S-Gowda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
