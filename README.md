@@ -1,6 +1,17 @@
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Vaibhav&repeat=false&runonce=true&duration=1">
+    
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&color=000000&center=true&vCenter=true&width=500&height=100&lines=Vaibhav&repeat=false&runonce=true&duration=1" alt="Vaibhav">
+  </picture>
+</p>
+
+
+
+<!--<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Vaibhav&repeat=false&runonce=true&duration=1" alt="Vaibhav" />
 </p>
+-->
 
 <!-- <p align="center">
   <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda">
