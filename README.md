@@ -7,17 +7,6 @@
 </p>
 
 
-
-<!--<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Vaibhav&repeat=false&runonce=true&duration=1" alt="Vaibhav" />
-</p>
--->
-
-<!-- <p align="center">
-  <a href="https://github.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Software+Development+Engineer;P2P+Systems+%26+Cloud+Native;Full-Stack+Web+Developer;Systems+%26+Data+Foundations">
-  </a>
-</p> -->
 > Software Development Engineer | P2P Systems | Cloud Native | Full-Stack Web Developer | Data Foundations
 
 ### 🚀 About Me
@@ -55,7 +44,7 @@ I am a **Software Development Engineer** focused on building high-performance, d
     </tr>
   </table>
   
-![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav-S-Gowda&theme=radical&hide_border=false&bg_color=0D1117)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav-S-Gowda&theme=holi&hide_border=false&bg_color=0D1117)<br/>
 </div>
 
 ---
