@@ -56,8 +56,3 @@ I am a **Software Development Engineer** focused on building high-performance, d
 <a href="https://discord.gg/vaibhav232003" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 <br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education-PES%20University-EB1923?style=for-the-badge&logo=leanpub&logoColor=white" />
-</p>
