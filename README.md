@@ -13,11 +13,11 @@
 I am a **Software Development Engineer** focused on building high-performance, distributed systems and reliable web architectures. I bridge the gap between low-level system efficiency and high-level user experience.
 
 ### 🔭 Current Focus
-- 🚀 **Currently Building:** [NexusShare](https://github.com/Vaibhav-S-Gowda) — A high-performance P2P file-sharing system focused on data privacy.
-- ⚗️ **Exploring:** Distributed Hash Tables (DHT) and local-first software architectures.
-- ⚡ **Technical Interests:** Kademlia, Cloud-Native Scalability, and AI Integration.
-- 🌱 **Learning:** Advanced Go routines and Microservices security patterns.
-- 💬 **Ask me about:** Java concurrency, React performance, or the decentralized web.
+* 🚀 **Currently Building:** [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor) — An AI-powered vision system that tracks eye behavior via webcam to prevent digital eye strain in real-time.
+* ⚗️ **Exploring:** Real-time blink rate analysis and gaze tracking using **OpenCV** and **TensorFlow** to improve ergonomic health.
+* ⚡ **Technical Interests:** Computer Vision (CV), Deep Learning models for facial landmark detection, and building responsive **Flask** web dashboards.
+* 🌱 **Learning:** Optimizing inference speed for edge devices and advanced **MediaPipe** integration for precise iris tracking.
+* 💬 **Ask me about:** Python-based AI monitoring, integrating computer vision with web technologies, or the **20-20-20 rule** for digital wellness.
 
 ---
 
