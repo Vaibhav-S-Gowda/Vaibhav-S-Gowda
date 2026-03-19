@@ -6,8 +6,9 @@
   </picture>
 </p>
 
-
-> Software Development Engineer | P2P Systems | Cloud Native | Full-Stack Web Developer | Data Foundations
+<p align="center">
+ Software Development Engineer | Cloud Native | Full-Stack Web Developer | Data Foundations
+</p>
 
 ### 🚀 About Me
 I am a **Software Development Engineer** focused on building high-performance, distributed systems and reliable web architectures. I bridge the gap between low-level system efficiency and high-level user experience.
