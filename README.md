@@ -45,7 +45,7 @@ I am a **Software Development Engineer** focused on building high-performance, d
     </tr>
   </table>
   
-![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav-S-Gowda&theme=holi&hide_border=false&bg_color=0D1117)<br/>
+[![](https://streak-stats.demolab.com/?user=Vaibhav-S-Gowda&theme=holi)](https://git.io/streak-stats)<br/>
 </div>
 
 ---
