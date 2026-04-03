@@ -11,14 +11,19 @@
 </p>
 
 ### 🚀 About Me
-I am a **Software Development Engineer** focused on building high-performance, distributed systems and reliable web architectures. I bridge the gap between low-level system efficiency and high-level user experience.
+**Aspiring Software Development Engineer (SDE)** specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling.
 
-### 🔭 Current Focus
-* 🚀 **Currently Building:** [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor) — An AI-powered vision system that tracks eye behavior via webcam to prevent digital eye strain in real-time.
-* ⚗️ **Exploring:** Real-time blink rate analysis and gaze tracking using **OpenCV** and **TensorFlow** to improve ergonomic health.
-* ⚡ **Technical Interests:** Computer Vision (CV), Deep Learning models for facial landmark detection, and building responsive **Flask** web dashboards.
-* 🌱 **Learning:** Optimizing inference speed for edge devices and advanced **MediaPipe** integration for precise iris tracking.
-* 💬 **Ask me about:** Python-based AI monitoring, integrating computer vision with web technologies, or the **20-20-20 rule** for digital wellness.
+### 🚀 Featured Projects
+
+#### [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
+*Health-Tech | Python, OpenCV, MediaPipe*
+* Developed a real-time monitoring system to mitigate digital eye fatigue by analyzing blink rates and head posture.
+* Implemented computer vision triggers to provide instantaneous user alerts based on fatigue detection logic.
+
+#### [AI-Driven Financial Risk Analysis](https://github.com/Vaibhav-S-Gowda/AI-Driven-Financial-Risk-Analysis-for-Sustainable-Economic-Growth)
+*FinTech | Python, Streamlit, Monte Carlo Simulation*
+* Engineered a prototype for predicting financial risks and supporting data-driven decision-making.
+* Utilized Monte Carlo simulations to model economic uncertainty and provide risk-adjusted growth insights.
 
 ---
 
