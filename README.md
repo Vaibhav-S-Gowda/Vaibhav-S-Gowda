@@ -13,7 +13,7 @@
 ### 🚀 About Me
 **Aspiring Software Development Engineer (SDE)** specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling.
 
-### 🚀 Featured Projects
+### 💻 Featured Projects
 
 #### [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
 *Health-Tech | Python, OpenCV, MediaPipe*
@@ -24,8 +24,6 @@
 *FinTech | Python, Streamlit, Monte Carlo Simulation*
 * Engineered a prototype for predicting financial risks and supporting data-driven decision-making.
 * Utilized Monte Carlo simulations to model economic uncertainty and provide risk-adjusted growth insights.
-
----
 
 ### 🛠️ Technical Arsenal
 | Category | Expertise |
