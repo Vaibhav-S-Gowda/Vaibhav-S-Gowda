@@ -25,6 +25,7 @@
 * Engineered a prototype for predicting financial risks and supporting data-driven decision-making.
 * Utilized Monte Carlo simulations to model economic uncertainty and provide risk-adjusted growth insights.
 
+<!--
 ### 🛠️ Technical Arsenal
 | Category | Expertise |
 | :--- | :--- |
@@ -32,6 +33,7 @@
 | **Frameworks** | React, Next.js, Node.js, Express, Tailwind CSS |
 | **Infrastructure** | AWS (EC2, S3), Git, GitHub Actions, Docker |
 | **Databases** | MySQL, PostgreSQL, MongoDB ||
+-->
 
 ---
 
@@ -51,12 +53,12 @@
 [![](https://streak-stats.demolab.com/?user=Vaibhav-S-Gowda&theme=holi)](https://git.io/streak-stats)<br/>
 </div>
 
+[![Vaibhav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-S-Gowda&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
+
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/vaibhav-gowda257" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vaibhav Gowda" /></a>
-<a href="mailto:vaibhav.gowda.work@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://discord.gg/vaibhav232003" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-<br />
+## 🧠 Philosophy
+
+> **Design for Scale.** > **Optimize for Performance.** > **Engineer for Resilience.**
