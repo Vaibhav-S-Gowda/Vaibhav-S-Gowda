@@ -59,4 +59,6 @@
 
 ## 🧠 Philosophy
 
-> **Design for Scale.** > **Optimize for Performance.** > **Engineer for Resilience.**
+> **Design for Scale.** <br> > **Optimize for Performance.** <br> > **Engineer for Resilience.**
+
+
