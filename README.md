@@ -57,8 +57,10 @@
 
 ---
 
-## 🧠 Philosophy
-
-> **Design for Scale.** <br> > **Optimize for Performance.** <br> > **Engineer for Resilience.**
+> ### 🧠 Philosophy
+> 
+> **Design for Scale** <br>
+> **Optimize for Performance** <br>
+> **Engineer for Resilience**
 
 
