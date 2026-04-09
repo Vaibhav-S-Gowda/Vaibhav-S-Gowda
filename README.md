@@ -53,7 +53,7 @@
 [![](https://streak-stats.demolab.com/?user=Vaibhav-S-Gowda&theme=holi)](https://git.io/streak-stats)<br/>
 </div>
 
-[![Vaibhav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-S-Gowda&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vaibhav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-S-Gowda&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
