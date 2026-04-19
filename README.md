@@ -10,10 +10,12 @@
  Software Development Engineer | Cloud Native | Full-Stack Web Developer | Data Foundations
 </p>
 
-### 🚀 About Me
+##### About Me
 **Aspiring Software Development Engineer (SDE)** specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling.
 
-### 💻 Featured Projects
+<br/>
+
+##### Featured Projects
 
 #### [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
 *Health-Tech | Python, OpenCV, MediaPipe*
@@ -24,6 +26,8 @@
 *FinTech | Python, Streamlit, Monte Carlo Simulation*
 * Engineered a prototype for predicting financial risks and supporting data-driven decision-making.
 * Utilized Monte Carlo simulations to model economic uncertainty and provide risk-adjusted growth insights.
+
+<br/>
 
 <!--
 ### 🛠️ Technical Arsenal
@@ -37,7 +41,7 @@
 
 ---
 
-### 📈 Technical Metrics
+##### Technical Metrics
 <div align="center">
   <table border="0">
     <tr>
@@ -56,11 +60,10 @@
 [![Vaibhav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-S-Gowda&theme=github-compact&color=ffffff&area=true&v=1.0.1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+<br/>
+<div align="center">
+  <sub>Design for Scale &nbsp;·&nbsp; Optimize for Performance &nbsp;·&nbsp; Engineer for Resilience</sub>
+</div>
 
-> ### 🧠 Philosophy
-> 
-> **Design for Scale** <br>
-> **Optimize for Performance** <br>
-> **Engineer for Resilience**
-
+<br/>
 
