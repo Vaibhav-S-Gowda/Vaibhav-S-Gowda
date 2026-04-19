@@ -10,12 +10,12 @@
  Software Development Engineer | Cloud Native | Full-Stack Web Developer | Data Foundations
 </p>
 
-##### About Me
+#### About Me
 **Aspiring Software Development Engineer (SDE)** specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling.
 
 <br/>
 
-##### Featured Projects
+#### Featured Projects
 
 #### [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
 *Health-Tech | Python, OpenCV, MediaPipe*
@@ -41,7 +41,7 @@
 
 ---
 
-##### Technical Metrics
+#### Technical Metrics
 <div align="center">
   <table border="0">
     <tr>
