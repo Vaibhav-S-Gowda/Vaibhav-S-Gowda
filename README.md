@@ -10,8 +10,6 @@
  Software Development Engineer | Cloud Native | Full-Stack Web Developer | Data Foundations
 </p>
 
-<!-- #### About Me
-**Aspiring Software Development Engineer (SDE)** specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling. -->
 
 ### Professional Overview
 I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling.
@@ -31,16 +29,6 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
 * Utilized Monte Carlo simulations to model economic uncertainty and provide risk-adjusted growth insights.
 
 <br/>
-
-<!--
-### 🛠️ Technical Arsenal
-| Category | Expertise |
-| :--- | :--- |
-| **Languages** | Java, Python, Go, C#, C, JavaScript, SQL |
-| **Frameworks** | React, Next.js, Node.js, Express, Tailwind CSS |
-| **Infrastructure** | AWS (EC2, S3), Git, GitHub Actions, Docker |
-| **Databases** | MySQL, PostgreSQL, MongoDB ||
--->
 
 ---
 
