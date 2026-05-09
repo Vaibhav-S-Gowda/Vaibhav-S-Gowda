@@ -33,8 +33,8 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
 ---
 
 ### Technical Metrics
-<div align="center">
-  <table border="0">
+ <div align="center">
+<!--  <table border="0">
     <tr>
       <td width="50%" valign="top">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vaibhav-S-Gowda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&cache_seconds=1800"/>
@@ -43,7 +43,12 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vaibhav-S-Gowda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true"/>
       </td>
     </tr>
-  </table>
+  </table> -->
+
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vaibhav-S-Gowda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&cache_seconds=1800&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  &nbsp;
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vaibhav-S-Gowda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&title_color=58a6ff&text_color=c9d1d9"/>
+
   
 [![](https://streak-stats.demolab.com/?user=Vaibhav-S-Gowda&theme=holi)](https://git.io/streak-stats)<br/>
 </div>
