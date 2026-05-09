@@ -28,6 +28,21 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
 * Engineered a prototype for predicting financial risks and supporting data-driven decision-making.
 * Utilized Monte Carlo simulations to model economic uncertainty and provide risk-adjusted growth insights.
 
+<!--
+### Active Deployments
+
+#### [NexusShare](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
+> **Status:** `Scale-Testing` | **Stack:** `Python, OpenCV, MediaPipe`
+* Developed a real-time monitoring system to mitigate digital eye fatigue by analyzing blink rates and head postures.
+
+#### [Scribophobia](https://github.com/Vaibhav-S-Gowda/)
+> **Status:** `Iterating` | **Stack:** `TypeScript, Canvas API`
+* A high-performance visual whiteboard engineered for low-latency brainstorming and planning.
+
+#### [AI Financial Risk Analysis](https://github.com/Vaibhav-S-Gowda/AI-Driven-Financial-Risk-Analysis-for-Sustainable-Economic-Growth)
+> **Status:** `Stable` | **Stack:** `Monte Carlo, Python`
+* Modeling economic uncertainty using high-concurrency simulations.
+-->
 <br/>
 
 ---
