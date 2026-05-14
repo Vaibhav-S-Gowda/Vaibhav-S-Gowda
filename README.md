@@ -19,12 +19,16 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
 ### Featured Projects
 
 #### [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
-*Health-Tech | Python, OpenCV, MediaPipe*
+> *Health-Tech | Python, OpenCV, MediaPipe*
 * Developed a real-time monitoring system to mitigate digital eye fatigue by analyzing blink rates and head posture.
 * Implemented computer vision triggers to provide instantaneous user alerts based on fatigue detection logic.
 
+#### [Scribophobia](https://github.com/Vaibhav-S-Gowda/Scribophobia)
+> **Status:** `Iterating` | **Stack:** `TypeScript, Canvas API`
+* A high-performance visual whiteboard engineered for low-latency brainstorming and planning.
+
 #### [AI-Driven Financial Risk Analysis](https://github.com/Vaibhav-S-Gowda/AI-Driven-Financial-Risk-Analysis-for-Sustainable-Economic-Growth)
-*FinTech | Python, Streamlit, Monte Carlo Simulation*
+> *FinTech | Python, Streamlit, Monte Carlo Simulation*
 * Engineered a prototype for predicting financial risks and supporting data-driven decision-making.
 * Utilized Monte Carlo simulations to model economic uncertainty and provide risk-adjusted growth insights.
 
