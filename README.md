@@ -19,7 +19,7 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
 ### Featured Projects
 
 #### [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
-> *Health-Tech | Python, OpenCV, MediaPipe*
+> **Status:** `Stable` | **Stack:** `Python, OpenCV, MediaPipe`
 * Developed a real-time monitoring system to mitigate digital eye fatigue by analyzing blink rates and head posture.
 * Implemented computer vision triggers to provide instantaneous user alerts based on fatigue detection logic.
 
