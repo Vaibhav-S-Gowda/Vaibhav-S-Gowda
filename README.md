@@ -27,10 +27,10 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
 > **Status:** `Iterating` | **Stack:** `TypeScript, Canvas API`
 * A high-performance visual whiteboard engineered for low-latency brainstorming and planning.
 
-#### [AI-Driven Financial Risk Analysis](https://github.com/Vaibhav-S-Gowda/AI-Driven-Financial-Risk-Analysis-for-Sustainable-Economic-Growth)
-> **Status:** `Stable` | **Stack:** `Monte Carlo, Python`
-* Engineered a prototype for predicting financial risks and supporting data-driven decision-making.
-* Utilized Monte Carlo simulations to model economic uncertainty and provide risk-adjusted growth insights.
+#### [Aetheris Risk](https://github.com/Vaibhav-S-Gowda/Aetheris-Risk)
+> **Status:** `Stable` | **Stack:** `Python`
+* It combines traditional borrower credit parameters with country-level ESG sustainability metrics to produce a composite risk score, using a Random Forest model served through a persistent Python worker process for fast predictions (~30–150 ms).
+* Users can also retrain the model on the fly by tweaking hyperparameters like tree count, max depth, and min samples split directly from the UI.
 
 <!--
 ### Active Deployments
