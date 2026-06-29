@@ -28,7 +28,7 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
 * A high-performance visual whiteboard engineered for low-latency brainstorming and planning.
 
 #### [Aetheris Risk](https://github.com/Vaibhav-S-Gowda/Aetheris-Risk)
-> **Status:** `Stable` | **Stack:** `Python`
+> **Status:** `Stable` | **Stack:** `React, Express, Node.js, Python`
 * It combines traditional borrower credit parameters with country-level ESG sustainability metrics to produce a composite risk score, using a Random Forest model served through a persistent Python worker process for fast predictions (~30–150 ms).
 * Users can also retrain the model on the fly by tweaking hyperparameters like tree count, max depth, and min samples split directly from the UI.
 
