@@ -17,20 +17,23 @@ I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** sp
 <br/>
 
 ### Featured Projects
-
-#### [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
-> **Status:** `Stable` | **Stack:** `Python, OpenCV, MediaPipe`
-* Developed a real-time monitoring system to mitigate digital eye fatigue by analyzing blink rates and head posture.
-* Implemented computer vision triggers to provide instantaneous user alerts based on fatigue detection logic.
-
-#### [Scribophobia](https://github.com/Vaibhav-S-Gowda/Scribophobia)
-> **Status:** `Iterating` | **Stack:** `TypeScript, Canvas API`
-* A high-performance visual whiteboard engineered for low-latency brainstorming and planning.
-
+ 
 #### [Aetheris Risk](https://github.com/Vaibhav-S-Gowda/Aetheris-Risk)
-> **Status:** `Stable` | **Stack:** `React, Express, Node.js, Python`
-* It combines traditional borrower credit parameters with country-level ESG sustainability metrics to produce a composite risk score, using a Random Forest model served through a persistent Python worker process for fast predictions (~30–150 ms).
-* Users can also retrain the model on the fly by tweaking hyperparameters like tree count, max depth, and min samples split directly from the UI.
+> **Status:** `Stable` · **Stack:** `React, Express, Node.js, Python`
+ 
+Combines borrower credit parameters with country-level ESG sustainability metrics into a composite risk score. A Random Forest model runs behind a persistent Python worker for fast predictions (~30–150ms), and hyperparameters (tree count, max depth, min samples split) can be retrained live from the UI.
+ 
+#### [Eye-Strain-Monitor](https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor)
+> **Status:** `Stable` · **Stack:** `Python, OpenCV, MediaPipe`
+ 
+Real-time monitoring system that tracks blink rate and head posture to detect digital eye fatigue and trigger instant alerts.
+ 
+#### [Scribophobia](https://github.com/Vaibhav-S-Gowda/Scribophobia)
+> **Status:** `Iterating` · **Stack:** `TypeScript, Canvas API`
+ 
+A low-latency visual whiteboard built for fast brainstorming and planning.
+ 
+<br/>
 
 <!--
 ### Active Deployments
