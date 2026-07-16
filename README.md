@@ -105,6 +105,11 @@ A lightweight visual collaboration platform built for brainstorming, sketching, 
 
 `TypeScript`
 `Canvas API`
+`React` 
+`Redis` 
+`Typescript` 
+`Socket-io` 
+`Node-js`  
 
 <br>
 
