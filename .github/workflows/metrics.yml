@@ -1,0 +1,21 @@
+name: Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+
+jobs:
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.isocalendar.svg
+          base: ""                          # only render the isocalendar, nothing else
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year   # or full-year
+          config_theme: dark_dimmed         # matches your Tokyo Night dark aesthetic
