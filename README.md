@@ -184,8 +184,11 @@ A low-latency visual whiteboard built for fast brainstorming and planning.
 [![Vaibhav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-S-Gowda&theme=github-compact&color=ffffff&area=true&hide_border=true)](https://github.com/Vaibhav-S-Gowda)
 -->
 
-
+<div align ="center">
+  
 ![Isometric Contribution Calendar](metrics.isocalendar.svg)
+
+</div>
 
 ---
 <br/>
