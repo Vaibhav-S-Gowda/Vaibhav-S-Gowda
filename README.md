@@ -159,8 +159,6 @@ A low-latency visual whiteboard built for fast brainstorming and planning.
  
 <br/>
 
----
-
  <!--
 ### Technical Metrics
  <div align="center">
