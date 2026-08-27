@@ -38,7 +38,7 @@ AI-powered financial risk analysis platform combining borrower parameters with E
 <br/>
 
 <a href="https://github.com/Vaibhav-S-Gowda/Aetheris-Risk">
-  <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/View_Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -61,7 +61,7 @@ Real-time fatigue detection engine utilizing MediaPipe Face Mesh to monitor stra
 <br/>
 
 <a href="https://github.com/Vaibhav-S-Gowda/Eye-Strain-Monitor">
-  <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/View_Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -86,7 +86,7 @@ Ultra-low latency visual collaboration platform designed for concurrent sketchin
 <br/>
 
 <a href="https://github.com/Vaibhav-S-Gowda/Scribophobia">
-  <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/View_Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
