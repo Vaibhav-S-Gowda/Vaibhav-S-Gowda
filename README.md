@@ -112,6 +112,7 @@ Ultra-low latency visual collaboration platform designed for concurrent sketchin
 <div align="center">
 
 ![Isometric Contribution Calendar](metrics.isocalendar.svg)
+![Bonsai growth](https://raw.githubusercontent.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda/main/output/bonsai-growth.gif?v=2)
 
 </div>
 
