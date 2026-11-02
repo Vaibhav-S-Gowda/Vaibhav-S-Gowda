@@ -12,10 +12,14 @@ permissions:
 jobs:
   grow:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: egorthinks/git-bonsai@v1
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate animated bonsai
+        uses: egorthinks/git-bonsai@v1
         with:
           user: Vaibhav-S-Gowda
           output-dir: output
+          commit: true
