@@ -13,9 +13,9 @@
 # Professional Overview
 I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling.
 
-![Bonsai growth](https://raw.githubusercontent.com/Vaibhav-S-Gowda/Vaibhav-S-Gowda/main/output/bonsai-growth.gif?v=2)
 <br/>
 
+<!--
 # Featured Projects
 
 <table>
@@ -109,12 +109,17 @@ Ultra-low latency visual collaboration platform designed for concurrent sketchin
 </table>
 
 <br/>
+-->
 
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="2" height="300">
+  <rect width="2" height="300" fill="#808080" opacity="0.5"/>
+</svg>
 
-![Isometric Contribution Calendar](metrics.isocalendar.svg)
-
-</div>
+<p align="center">
+  <img src="output/bonsai-growth.gif" alt="Bonsai growth" width="47%" />
+  <img src="divider.svg" alt="" width="2" height="300" />
+  <img src="metrics.isocalendar.svg" alt="Isometric Contribution Calendar" width="47%" />
+</p>
 
 ---
 <br/>
