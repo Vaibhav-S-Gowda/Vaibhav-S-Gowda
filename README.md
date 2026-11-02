@@ -112,7 +112,7 @@ Ultra-low latency visual collaboration platform designed for concurrent sketchin
 -->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="2" height="300">
-  <rect width="2" height="300" fill="#808080" opacity="0.5"/>
+  <rect width="2" height="300" fill="#808080" opacity="1"/>
 </svg>
 
 <p align="center">
