@@ -111,15 +111,16 @@ Ultra-low latency visual collaboration platform designed for concurrent sketchin
 <br/>
 -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="2" height="300">
-  <rect width="2" height="300" fill="#808080" opacity="1"/>
-</svg>
-
-<p align="center">
-  <img src="output/bonsai-growth.gif" alt="Bonsai growth" width="47%" />
-  <img src="divider.svg" alt="" width="2" height="300" />
-  <img src="metrics.isocalendar.svg" alt="Isometric Contribution Calendar" width="47%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="output/bonsai-growth.gif" alt="Bonsai growth" width="100%" />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="metrics.isocalendar.svg" alt="Isometric Contribution Calendar" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 <br/>
