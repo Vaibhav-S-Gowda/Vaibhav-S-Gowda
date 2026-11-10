@@ -1,8 +1,8 @@
 <div align="center">
 
-# The Vaibhav S Gowda Times
+# Vaibhav S Gowda Times
 
-<sub><b>FRONTEND OR FULL-STACK ENGINEER</b> · ALL THE CODE THAT'S FIT TO SHIP</sub>
+<sub><b>BACKEND OR FULL-STACK ENGINEER</b> · ALL THE CODE THAT'S FIT TO SHIP</sub>
 
 </div>
 
