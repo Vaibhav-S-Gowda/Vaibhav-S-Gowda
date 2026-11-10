@@ -7,9 +7,9 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center">
   <code>Backend Engineer</code> • <code>Full-Stack Developer</code> • <code>Computer Vision Enthusiast</code> • <code>Data Foundations</code>
-</p>
+</p> -->
 
 # Professional Overview
 I am **Vaibhav S Gowda**, an **Aspiring Software Development Engineer (SDE)** specializing in systems architecture, cloud-native scalability, and high-performance applications. I enjoy solving complex problems ranging from low-level system design to computer vision and financial modeling.
